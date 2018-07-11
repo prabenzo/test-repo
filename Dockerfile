@@ -1,3 +1,1 @@
-steps:
-- name: 'ubuntu'
-  args: ['echo', 'hello world']
+FROM ubuntu
