@@ -1,3 +1,3 @@
 steps:
 - name: 'ubuntu'
-  args: ['echo', 'hello worldd']
+  args: ['echo', 'hello worlddd']
